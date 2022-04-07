@@ -2,3 +2,4 @@
 **/*.csv
 **/.ipynb_checkpoints
 **/filtered-tokens.txt
+!Delivery 1 - Collocations/output/**/*.csv
