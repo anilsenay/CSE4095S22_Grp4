@@ -11,6 +11,9 @@ There are three steps to extract collocations
 - Extracting the Bigrams and Trigrams
 - Generating Collocations using related methods
 
+### N-GRAM Frequencies
+
+![n-gram](https://ibb.co/qy7g96C)
 
 
 ### Delivery-2
