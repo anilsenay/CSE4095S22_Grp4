@@ -2,7 +2,15 @@
 
 ### Delivery-1
 
-In the first iteration, random labels will be defined for instances by the system itself, but in subsequent iterations, different users can add different tags to an instance by using various types of labeling mechanisms.
+#### Preprocessing
+
+There are three steps to extract collocations:
+
+- Preprocessing
+  - Removing stopwords
+  - Stemming and Lemmatization
+- Extracting the Bigrams and Trigrams
+- Generating Collocations using related methods
 
 ### Delivery-2
 
