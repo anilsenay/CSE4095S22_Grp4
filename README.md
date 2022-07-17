@@ -16,8 +16,8 @@ There are three steps to extract collocations
 <img width="1226" alt="image" src="https://user-images.githubusercontent.com/33997918/179395427-fc72463d-8dc3-48d9-9a1d-deaf35578474.png">
 
 ### Methods
-- #### Raw Frequency
-- #### PMI
+- ##### Raw Frequency
+- ##### PMI
 - #### T-Test
 - #### Chi-Square
 - #### Likelihood Ratio
