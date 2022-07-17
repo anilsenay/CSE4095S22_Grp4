@@ -123,7 +123,7 @@ There are three steps to build a classifier for classification
 
 <img width="927" alt="image" src="https://user-images.githubusercontent.com/33997918/179397536-1e0385fb-f3fc-4d77-8a56-f6a2ed6d0059.png">
 
-- ‘__label__’ tag is added to labels for model creation
+- `__label__` tag is added to labels for model creation
 
 
 ## Contributors ✨
