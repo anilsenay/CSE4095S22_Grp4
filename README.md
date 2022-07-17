@@ -100,7 +100,8 @@ There are three steps to build a classifier for classification
 
 ### Support Vector Machine
 
-<img width="1198" alt="image" src="https://user-images.githubusercontent.com/33997918/179396814-36c00447-f162-4fc6-9055-a6fe9cbdfc54.png">
+<img width="1222" alt="image" src="https://user-images.githubusercontent.com/33997918/179397176-4de17648-7bb8-439c-aff7-34c7fe9b7921.png">
+
 
 ### Multinomial Naive Bayes
 
