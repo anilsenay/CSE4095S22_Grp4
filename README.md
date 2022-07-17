@@ -5,12 +5,13 @@
 #### Preprocessing
 
 There are three steps to extract collocations
-
 - Preprocessing
   - Removing stopwords
   - Stemming and Lemmatization
 - Extracting the Bigrams and Trigrams
 - Generating Collocations using related methods
+
+
 
 ### Delivery-2
 
