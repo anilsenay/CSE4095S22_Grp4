@@ -13,7 +13,8 @@ There are three steps to extract collocations
 
 ### N-GRAM Frequencies
 
-![n-gram](https://ibb.co/qy7g96C)
+<img width="1226" alt="image" src="https://user-images.githubusercontent.com/33997918/179395427-fc72463d-8dc3-48d9-9a1d-deaf35578474.png">
+
 
 
 ### Delivery-2
