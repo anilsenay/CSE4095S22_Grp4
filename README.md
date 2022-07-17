@@ -54,11 +54,21 @@ There are three steps to extract collocations
 
 <img width="1199" alt="image" src="https://user-images.githubusercontent.com/33997918/179396148-2a472890-c1a0-4b1f-89a0-9148baa1e0c2.png">
 
-### Delivery-2
+## Delivery-2
 
-In the second iteration, reporting functionality is added for user performance and labeling operation for a particular dataset. The main idea is to collect statistics for users, compare users in the context of a particular dataset or globally, and calculate metrics for instances in the dataset that are labeled with many users. The resulting reports will give us an idea about the quality of the data labeling and the quality of the users.
+### Development Process
 
-### Delivery-3
+There are three steps to build a classifier for classification
+- Preprocessing
+  - Removing stopwords
+  - Tokenization
+  - Stemming
+- Classifier
+- Evaluation
+
+
+
+## Delivery-3
 
 In the third iteration, human user interface is added to enable human users to label instances manually, one by one. Each human user has a username and a password validation which are required to enter the system in the beginning. Furthermore, The Relevance Bot, a new bot user, is added and uses Relevance Labeling Mechanism which checks instances' relevance meaning using an API and accordingly labels them.
 
