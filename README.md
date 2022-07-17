@@ -28,6 +28,10 @@ There are three steps to extract collocations
 
 <img width="1162" alt="image" src="https://user-images.githubusercontent.com/33997918/179395728-398a1eff-fd8b-4178-b348-8260335b4c45.png">
 
+### PMI
+
+<img width="1195" alt="image" src="https://user-images.githubusercontent.com/33997918/179395850-c5a353d6-75d9-42c5-a556-208ab74c165e.png">
+
 
 ### Delivery-2
 
