@@ -36,6 +36,17 @@ There are three steps to extract collocations
 
 <img width="1195" alt="image" src="https://user-images.githubusercontent.com/33997918/179395891-457dbd18-7263-4564-ad5b-10dbda7e91ab.png">
 
+### Chi-Square Results
+
+<img width="1208" alt="image" src="https://user-images.githubusercontent.com/33997918/179395953-bde64473-c203-4399-afaf-f51e5840b907.png">
+
+### Likelihood Ratio Results
+
+<img width="1115" alt="image" src="https://user-images.githubusercontent.com/33997918/179395988-905ca0d3-6a31-4676-81b3-38004f792662.png">
+
+### Poisson Stirling Results
+
+<img width="1138" alt="image" src="https://user-images.githubusercontent.com/33997918/179396053-ff82205e-20b6-44d1-b10d-0eaca57f7095.png">
 
 
 ### Delivery-2
