@@ -108,7 +108,7 @@ There are three steps to build a classifier for classification
 
 ### Logistic Regression
 
-<img width="1198" alt="image" src="https://user-images.githubusercontent.com/33997918/179396881-2fec1f90-cc95-49a4-a763-a40589554406.png">
+<img width="1222" alt="image" src="https://user-images.githubusercontent.com/33997918/179397255-d771b429-23a0-4ba0-b2ae-f6170b4b0baa.png">
 
 ## Delivery-3
 
