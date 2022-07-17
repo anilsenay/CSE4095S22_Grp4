@@ -98,15 +98,15 @@ There are three steps to build a classifier for classification
 - **Multinomial Naive Bayes**
 - **Logistic Regression**
 
-### Support Vector Machine
+### Support Vector Machine Results
 
 <img width="1222" alt="image" src="https://user-images.githubusercontent.com/33997918/179397176-4de17648-7bb8-439c-aff7-34c7fe9b7921.png">
 
-### Multinomial Naive Bayes
+### Multinomial Naive Bayes Results
 
 <img width="1222" alt="image" src="https://user-images.githubusercontent.com/33997918/179397223-b1b48cf4-6947-4db8-b8bc-0005dd909cef.png">
 
-### Logistic Regression
+### Logistic Regression Results
 
 <img width="1222" alt="image" src="https://user-images.githubusercontent.com/33997918/179397255-d771b429-23a0-4ba0-b2ae-f6170b4b0baa.png">
 
@@ -125,6 +125,13 @@ There are three steps to build a classifier for classification
 
 - `__label__` tag is added to labels for model creation
 
+### FastText Results
+
+<img width="1227" alt="image" src="https://user-images.githubusercontent.com/33997918/179397622-6961417c-4fb2-4f6b-84a0-6f43414edc8c.png">
+
+### LSTM Results
+
+<img width="1227" alt="image" src="https://user-images.githubusercontent.com/33997918/179397651-d4a85ff8-4786-4f5a-91cc-fabafd97489b.png">
 
 ## Contributors ✨
 
