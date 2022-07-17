@@ -1,5 +1,35 @@
 # Natural Language Process Project
 
+
+## Table of Contents
+
+- [Delivery-1](#delivery-1)
+  - [Preprocessing](#preprocessing)
+  - [N-GRAM Frequencies](#n-gram-frequencies)
+  - [Methods](#methods)
+  - [Raw Frequency Results](#raw-frequency-results)
+  - [PMI Results](#pmi-results)
+  - [T-Test Results](#t-test-results)
+  - [Chi-Square Results](#chi-square-results)
+  - [Likelihood Ratio Results](#likelihood-ratio-results)
+  - [Poisson Stirling](#poisson-stirling)
+  - [Comparison of Methods](#comparison-of-methods)
+- [Delivery-2](#delivery-2)
+  - [Development Process](#development-process)
+  - [Preprocessing](#preprocessing)
+  - [General Structure](#general-structure)
+  - [Generating Training Datasets](#generating-training-datasets]
+  - [Classifiers](#classifiers)
+  - [Support Vector Machine Results](#support-vector-machine-results)
+  - [Multinomial Naive Bayes Results)(#multinomial-naive-bayes-results)
+  - [Logistic Regression Results)(#logistic-regression-results)
+- [Delivery-3](#delivery-3)
+  - [Classifiers](#classifiers)
+  - [FastText](#fast-text)
+  - [FastText Results](#fast-text-results)
+  - [LSTM Results](#lstm-results)
+- [Contributors](#contributors)
+
 ## Delivery-1
 
 ### Preprocessing
