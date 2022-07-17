@@ -66,11 +66,55 @@ There are three steps to build a classifier for classification
 - Classifier
 - Evaluation
 
+### Preprocessing
 
+- Dataset words converted to lowercase format
+- Punctuation  marks from the dataset words are removed
+- Tokenization process by using filtering options on the dataset words like extracting stopwords, applying some regex patterns
+- Stemmization applied on the dataset words
+
+### General Structure
+
+- Files from dataset are read
+- Labels created according to dataset
+- Data.json file is created which holds labels we decided
+
+<img width="675" alt="image" src="https://user-images.githubusercontent.com/33997918/179396563-047f5533-8430-41c6-8f55-d765426a8338.png">
+
+### Generating Training Datasets
+
+- Write data into CSV file
+  - If there is no available train set created before, the csv file is created
+- Read train set from CSV
+  - If there is a previously created csv file that is available, the file is read. “Suç” and “İçtihat” are prepared as lists
+- Split Dataset
+  - Common approach is used for splitting the dataset which was 80% for training set and 20% for test set
+- Vectorize
+  - Using the data from our test set, a TF-IDF matrix is created
+
+### Classifiers
+
+- **Support Vector Machines (specifically, linear SVM)**
+- **Multinomial Naive Bayes**
+- **Logistic Regression**
+
+### Support Vector Machine
+
+<img width="1198" alt="image" src="https://user-images.githubusercontent.com/33997918/179396814-36c00447-f162-4fc6-9055-a6fe9cbdfc54.png">
+
+### Multinomial Naive Bayes
+
+<img width="1198" alt="image" src="https://user-images.githubusercontent.com/33997918/179396858-a764cdee-1840-4197-9086-ad2dc9d12d4c.png">
+
+### Logistic Regression
+
+<img width="1198" alt="image" src="https://user-images.githubusercontent.com/33997918/179396881-2fec1f90-cc95-49a4-a763-a40589554406.png">
 
 ## Delivery-3
 
-In the third iteration, human user interface is added to enable human users to label instances manually, one by one. Each human user has a username and a password validation which are required to enter the system in the beginning. Furthermore, The Relevance Bot, a new bot user, is added and uses Relevance Labeling Mechanism which checks instances' relevance meaning using an API and accordingly labels them.
+
+## Delivery-4
+
 
 ## Contributors ✨
 
