@@ -52,6 +52,7 @@ There are three steps to extract collocations
 
 <img width="1199" alt="image" src="https://user-images.githubusercontent.com/33997918/179396124-ff29c7c8-c8b1-4d91-b388-982efb48884e.png">
 
+<img width="1199" alt="image" src="https://user-images.githubusercontent.com/33997918/179396148-2a472890-c1a0-4b1f-89a0-9148baa1e0c2.png">
 
 ### Delivery-2
 
