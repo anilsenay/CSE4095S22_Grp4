@@ -1,8 +1,8 @@
 # Natural Language Process Project
 
-### Delivery-1
+## Delivery-1
 
-#### Preprocessing
+### Preprocessing
 
 There are three steps to extract collocations
 - Preprocessing
@@ -47,6 +47,10 @@ There are three steps to extract collocations
 ### Poisson Stirling Results
 
 <img width="1138" alt="image" src="https://user-images.githubusercontent.com/33997918/179396053-ff82205e-20b6-44d1-b10d-0eaca57f7095.png">
+
+### Comparison of Methods
+
+<img width="1199" alt="image" src="https://user-images.githubusercontent.com/33997918/179396124-ff29c7c8-c8b1-4d91-b388-982efb48884e.png">
 
 
 ### Delivery-2
