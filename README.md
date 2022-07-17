@@ -24,7 +24,7 @@ There are three steps to extract collocations
 - **Likelihood Ratio**
 - **Poisson Stirling**
 
-### Raw Frequency
+### Raw Frequency Results
 
 <img width="1162" alt="image" src="https://user-images.githubusercontent.com/33997918/179395728-398a1eff-fd8b-4178-b348-8260335b4c45.png">
 
