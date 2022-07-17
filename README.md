@@ -4,7 +4,7 @@
 
 #### Preprocessing
 
-There are three steps to extract collocations:
+There are three steps to extract collocations
 
 - Preprocessing
   - Removing stopwords
