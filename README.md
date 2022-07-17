@@ -102,10 +102,9 @@ There are three steps to build a classifier for classification
 
 <img width="1222" alt="image" src="https://user-images.githubusercontent.com/33997918/179397176-4de17648-7bb8-439c-aff7-34c7fe9b7921.png">
 
-
 ### Multinomial Naive Bayes
 
-<img width="1198" alt="image" src="https://user-images.githubusercontent.com/33997918/179396858-a764cdee-1840-4197-9086-ad2dc9d12d4c.png">
+<img width="1222" alt="image" src="https://user-images.githubusercontent.com/33997918/179397223-b1b48cf4-6947-4db8-b8bc-0005dd909cef.png">
 
 ### Logistic Regression
 
