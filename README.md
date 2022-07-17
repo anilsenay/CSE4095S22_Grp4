@@ -112,8 +112,18 @@ There are three steps to build a classifier for classification
 
 ## Delivery-3
 
+### Classifiers
+- **FastText**
+- **LSTM**
 
-## Delivery-4
+### FastText
+- Dataset is taken from previous iteration
+- Labels created according to dataset
+- Label names concatenated with underscore to prevent ambiguity such as
+
+<img width="927" alt="image" src="https://user-images.githubusercontent.com/33997918/179397536-1e0385fb-f3fc-4d77-8a56-f6a2ed6d0059.png">
+
+- ‘__label__’ tag is added to labels for model creation
 
 
 ## Contributors ✨
